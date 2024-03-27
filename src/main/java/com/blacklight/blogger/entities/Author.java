@@ -1,6 +1,5 @@
 package com.blacklight.blogger.entities;
 
-import com.blacklight.blogger.entities.Blog;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
